@@ -1,0 +1,361 @@
+id,text,labels,annotator1,annotator2,agreement
+1,حتی فیلسوفان جنگ را به عنوان مایه ی انس با بشریت ستایش می کنند و یونانیانی را فراموش می کنند که می گفتند: بد جنگی است که شر آن بیش از آن باشد که از بین ببرد.,philosophical,philosophical,philosophical,TRUE
+2,در برهه ای از زمان ، مجبور شدم دانش را انکار کنم تا فضایی برای ایمان فراهم شود.,philosophical,philosophical,philosophical,TRUE
+3,فاش نکردن اسرار مردم دلیل کرامت و بلندی همت است,religious,religious,religious,TRUE
+4,میتوان حقیقتی را دوست نداشت ، اما نمیتوان منکر آن شد,philosophical,philosophical,philosophical,TRUE
+5,امر سیاست درست مانند منتقدان ادبیات است که با وجود اینکه این افراد خود نویسنده نیستند اما قادر به نقد آثار ادبی می باشند,philosophical,philosophical,philosophical,TRUE
+6,زیبارویی که می داند زیبایی ماندنی نیست پرستیدنی ست,philosophical,philosophical,philosophical,TRUE
+7,ستايش مى كنم خداوند او را، براى تكميل نعمت هاى او و تسليم بودن برابر بزرگى او و ايمن ماندن از نافرمانى او.,religious,religious,religious,TRUE
+8,ما را حقّى است اگر به ما داده شود، و گر نه بر پشت شتران سوار شويم و براى گرفتن آن برانيم هر چند شب روى به طول انجامد,religious,religious,religious,TRUE
+9,وقتی تابش درخشان یک شب تابستانی با ستاره های درخشان پر می شود و ماه کاملاً کامل می شود ، من آرام آرام احساس می کنم به یک حالت حساسیت افزایش یافته از دوستی و بیزاری از دنیا و ابدیت کشیده می شوم.,philosophical,philosophical,philosophical,TRUE
+10,اگر خدا خیر بنده ای را اراده کند، نفس او را واعظ و رهبر او قرار می دهد.,religious,religious,religious,TRUE
+11,دریاها نماد فروتنی هستند . در نهاد خود کوه هایی فراتر از خشکی دارند اما هیچ گاه آن را به رخ ما نمی کشند,philosophical,philosophical,philosophical,TRUE
+12,در بهبودی کار دنیا بکوشید اما در کار آخرت چنان کنید که گویی فردا رفتنی باشید.,religious,religious,religious,TRUE
+13,اگر ایمان خود را نسبت به علم از دست بدهیم، در این صورت ایمانِ ما نسبت به ارزنده‌ترین استعدادهای آدمی با مرگ روبروست.,philosophical,philosophical,philosophical,TRUE
+14,نزدیک ترین چیزها مرگ و دورترین چیزها آرزوهاست,philosophical,philosophical,philosophical,TRUE
+15,در تمام قضاوت هایی که در آن چیزی را زیبا توصیف می کنیم ، اجازه نمی دهیم کسی نظر دیگری داشته باشد.,philosophical,philosophical,philosophical,TRUE
+16,ناتوانى، آفت و شكيبايى، شجاعت و زهد ثروت و پرهيزكارى سپر نگه دارنده است. و چه همنشين خوبى است راضى بودن و خرسندى,religious,religious,philosophical,FALSE
+17,آدمی نیازمند ایمانی واقعی و قوی است نه باوری بزدلانه و آمیخته به تردید.,religious,religious,religious,TRUE
+18,اگرچه ممکن است تمام زندگی خود را صرف کشتن کنید، اما قادر نخواهید بود تمام دشمنان خود را از پای درآورید,philosophical,philosophical,philosophical,TRUE
+19,زیان نادانان، بیش از ضرری است که تبهکاران به دین می رسانند.,religious,religious,religious,TRUE
+20,هیچ کس دو بار در یک رودخانه قدم نمی‌گذارد، چرا که آن رودخانه یکسان نیست و او نیز همان آدم نیست,philosophical,philosophical,philosophical,TRUE
+21,وقتی از اهدافی عالی و برنامه ریزی خارق العاده الهام گرفته اید، افکار شما تمام محدودیت‌ها را خواهد شکست,philosophical,philosophical,philosophical,TRUE
+22,دوست بسیار داشته باش تا معروف باشی,philosophical,philosophical,philosophical,TRUE
+23,تصویر افرادی که با ظاهر بدنی خود متقاعد می شوند ، گاهی اوقات بر روی انواع دیگر احساسات می افتد.,philosophical,philosophical,philosophical,TRUE
+24,انسان از مادر ، آزاده آفریده شد,philosophical,philosophical,philosophical,TRUE
+25,. پس ستايش خداوند گران سنگ ترين چيز است، و برترين گنجى است كه ارزش ذخيره شدن دارد.,religious,religious,religious,TRUE
+26,می‌توان گفت نفرت، نفرت می‌آورد و جهانی که در آن بر نفرت دامن زنند چنان آکنده از زد و خورد و مجادله خواهد شد که هیچ‌کس نمی‌تواند از لذت یک زندگی خوب بهره‌مند گردد.,philosophical,philosophical,philosophical,TRUE
+27,آنارشی قانون و استقلال بدون زور است. استبداد قانون و انگیزه ای بدون آزادی است. زور ، ظلم و ستم است بدون آزادی و قانون. جمهوری خواهی انگیزه ای برای استقلال و قانون است.,philosophical,philosophical,philosophical,TRUE
+28,اگر خشم خود را فرو بگیرید، دشمن واقعی شما کشته می‌شود,religious,philosophical,religious,FALSE
+29,شاعر تقلید تقلید است و از این‌رو انسان را دو مرحله از واقعیت دور می‌کند,philosophical,philosophical,philosophical,TRUE
+30,و شك چهار بخش دارد: جدال در گفتار، ترسيدن، دو دل بودن، و تسليم حوادث روزگار شدن,religious,philosophical,religious,FALSE
+31,انسان عاقل آماده است تا از همه موقعیت‌ها استفاده کند و هیچ چیزی را هدر نمی‌دهد. به این امر تجسم نور گفته می‌شود,philosophical,philosophical,philosophical,TRUE
+32,دلاورترین مردم آن است که بر هوای نفس، غالب آید.,religious,religious,religious,TRUE
+33,سعی نکنید در میان جمعیت به دنبال انواع خاص لطف باشید. شما به ندرت از راه های صادقانه و قانونی اطلاعات کسب می کنید.,philosophical,philosophical,philosophical,TRUE
+34,صبح و شامی بر مؤمن نمی گذرد مگر آنکه بر خود گمان خطا ببرد.,religious,religious,religious,TRUE
+35,آن كس كه مرگ را انتظار مى كشد در نيكى ها شتاب مى كند.,religious,religious,religious,TRUE
+36,كسى كه كردارش او را به جايى نرساند، افتخارات خاندانش او را به جايى نخواهد رسانيد,philosophical,philosophical,philosophical,TRUE
+37,اگر بر دشمنت دست يافتى، بخشيدن او را شكرانه پيروزى قرار ده,religious,religious,religious,TRUE
+38,و در رفع نيازها از او يارى مى طلبم زيرا آن كس را كه خدا هدايت كند، هرگز گمراه نگردد، و آن را كه خدا دشمن دارد، هرگز نجات نيابد,religious,religious,religious,TRUE
+39,مزیت باسوادان بر بی سوادان همانند برتری زندگان بر مردگان است,philosophical,philosophical,philosophical,TRUE
+40,روشنگری ، رهایی انسان از نابالغی ناشی از خود است.,philosophical,philosophical,philosophical,TRUE
+41,آن كس كه در پى آرزوى خويش تازد، مرگ او را از پاى در آورد.,religious,philosophical,religious,FALSE
+42,بهترین حال برای زن آن است که زندگی خانوادگی آرامی داشته باشد,religious,philosophical,religious,FALSE
+43,اگر جانت در خطر بود بجای پنهان شدن بکوش همگان را از گرفتاری خویش آگاه سازی,philosophical,philosophical,philosophical,TRUE
+44,و جهاد نيز بر چهار پايه استوار است: امر به معروف، و نهى از منكر، راستگويى در هر حال، و دشمنى با فاسقان,religious,religious,religious,TRUE
+45,از نشر دانش نمی توان جلو گرفت.,philosophical,philosophical,philosophical,TRUE
+46,و هيچكس جز براى خودش (از نيك و بد) كارى انجام نمى‏دهد,religious,religious,religious,TRUE
+47,دل انسانی همچو پری است که در بیابان به شاخه درختی آویزان باشد، از ورزش بادها دایم در انقلاب است و زیر و رو می شود.,philosophical,philosophical,religious,FALSE
+48,در مقابل همه چیز میتوان مقاومت کرد جز نیکی و خوبی,philosophical,philosophical,philosophical,TRUE
+49,برترين زهد، پنهان داشتن زهد است,religious,religious,religious,TRUE
+50,"وقتی از نظر علاقه صحبت می کنیم ، آنچه را ""دوست داریم"" می نامیم همه چیزهایی است که ما با اهمیت وجود یک شی ارتباط برقرار می کنیم.",philosophical,philosophical,philosophical,TRUE
+51,تغییر یک چیز است، پیشرفت یک چیز دیگر. تغییر علمی است، پیشرفت اخلاقی، تغییر بدیهی است، درحالیکه پیشرفت موضوعی مورد مناقشه است.,philosophical,philosophical,philosophical,TRUE
+52,با سرانگشت عشق هر کسی شاعر می شود,philosophical,philosophical,philosophical,TRUE
+53,عمل مستحب انسان را به خدا نزديك نمى گرداند، اگر به واجب زيان رساند,religious,religious,religious,TRUE
+54,در یک سطح زندگی کنید تا دل های شما در یک سطح قرار بگیرد. با یکدیگر در تماس باشید تا به هم مهربان شوید.,religious,religious,philosophical,FALSE
+55,پرهیزکاری، جان و تن را آسایش می بخشد.,religious,religious,religious,TRUE
+56,ستايش مى كنم خداوند او را، براى تكميل نعمت هاى او و تسليم بودن برابر بزرگى او و ايمن ماندن از نافرمانى او.,religious,religious,religious,TRUE
+57,با خانواده خود به سر بردن، از گوشه مسجد گرفتن، نزد خداوند پسندیده تر است.,religious,religious,religious,TRUE
+58,هر پدیده ای زمانی که از دست آفریدگارش بیرون می آید خوب است و همین که بدست انسانها می افتد به تباهی میگراید,philosophical,philosophical,philosophical,TRUE
+59,طبعاً ، مردم بیشتر به آموزه هایی پایبند هستند که به کمترین تلاش خود و کمترین استفاده از دلیل خودشان نیاز دارند و در نتیجه ، آنها می توانند وظایف خود را بهتر به تمایلات خود جامه عمل بپوشانند.,philosophical,philosophical,philosophical,TRUE
+60,رهنمای به کار نیک، خود کننده آن کار است.,religious,philosophical,religious,FALSE
+61,آرمانی كه از حقیقت بترسد یا از پیش بخواهد كه جهان موافق خواهشهای او باشد توانایی این آمیزش را ندارد.,philosophical,philosophical,philosophical,TRUE
+62,نيكوكار، از كار نيك بهتر و بدكار از كار بد بدتر است,religious,philosophical,religious,FALSE
+63,از كفّاره گناهان بزرگ، به فرياد مردم رسيدن، و آرام كردن مصيبت ديدگان است,religious,religious,religious,TRUE
+64,متاسفانه بسیاری از مردم پس از اینکه به دامان شوربختی در افتادند،به سعادت از دست رفته ی خویش پی می برند.,philosophical,philosophical,philosophical,TRUE
+65,تنها به عقل می توان به نیکی ها رسید. آنکه عقل ندارد از دین تهی است.,religious,religious,religious,TRUE
+66,و آن كس كه تسليم حوادث گردد و به تباهى دنيا و آخرت گردن نهد، و هر دو جهان را از كف خواهد داد,religious,religious,religious,TRUE
+67,مرگ، ما را از هر ناصحی بی نیاز می کند.,philosophical,religious,philosophical,FALSE
+68,همه دانش ما با حواس شروع می شود ، سپس با درک ادامه می یابد و با دلیل خاتمه می یابد. هیچ چیز بالاتر از عقل نیست.,philosophical,philosophical,philosophical,TRUE
+69,از چوب های کج بشریت ، هیچ چیز مستقیمی ساخته نشده است.,philosophical,philosophical,religious,FALSE
+70,و پرهيزگار باشيد، تا  در خور رحمت گرديد,religious,religious,religious,TRUE
+71,عدالت یعنی انجام کامل وظایف توسط هر شهروند,philosophical,philosophical,philosophical,TRUE
+72,بخل ننگ و ترس نقصان است. و تهيدستى مرد زيرك را در برهان كند مى سازد، و انسان تهيدست در شهر خويش نيز بيگانه است,philosophical,philosophical,philosophical,TRUE
+73,صاحب قدرت، آن را به نفع خود به کار می برد.,philosophical,philosophical,philosophical,TRUE
+74,هر چه فرزند آدم پیرتر می شود، دو صفت در او جوان تر می گردد: حرص و آرزو.,philosophical,philosophical,philosophical,TRUE
+75,گام رسیدن به صلاحیت توسط بزرگترین بخش بشریت بسیار خطرناک تلقی می شود.,philosophical,philosophical,philosophical,TRUE
+76,منبع میل و شهوت در شکم است,religious,religious,religious,TRUE
+77,وجدان درونی همه انسانها آنها را به سوی کردار نیک رهنمایی میکند,religious,religious,religious,TRUE
+78,مرکز هیجان و اراده در قلب و جوش و حرارت خون است,philosophical,philosophical,philosophical,TRUE
+79,دو گروه از امت من هستند که اگر صلاح یابند، امت من صلاح می یابد و اگر فاسد شوند، امت من فاسد می شود: علما و حکّام.,religious,religious,religious,TRUE
+80,ساده ترین درس زندگی این است ،هرگز کسی را آزار نده,philosophical,philosophical,philosophical,TRUE
+81,به خدا سوگند كه اميران شما از اين كار سودى نبردند، و شما در دنيا با آن خود را به زحمت مى افكنيد، و در آخرت دچار رنج و زحمت مى گرديد.,religious,religious,religious,TRUE
+82,خواندن همه کتابهای خوب مانند مکالمه با بهترین ذهن قرن های گذشته است.,philosophical,philosophical,philosophical,TRUE
+83,به دختران خود یاد دهید؛ قبل از ازدواج به آرزوهایشان برسند، مردان غول چراغ جادویی علاء الدین نیستند,philosophical,philosophical,philosophical,TRUE
+84,شما همه شبان و مسئول نگاهبانی یکدیگرید.,religious,philosophical,religious,FALSE
+85,خداوندى، كه انديشه هاى دور پرواز او را درك نكنند و زيركان تيزهوش، به عمق جلال و جبروت او نرسند.,religious,religious,religious,TRUE
+86,منفورترین حلال ها نزد خداوند، طلاق است.,religious,religious,religious,TRUE
+87,هرچیز را نگهبان بیشتر بود،استوارتر گردد ،مگر راز که نگهدار آن هرچند زیاد باشد آشکارتر گردد,religious,philosophical,religious,FALSE
+88,نماز عشق ترتیبی ندارد چرا که با نخستین سر بر خاک گذاردن ، دیگر برخواستنی نیست,religious,religious,religious,TRUE
+89,زیبایی شخص، در گفتار اوست.,philosophical,philosophical,philosophical,TRUE
+90,محدوده ای که طبق اصول ما می توانیم از قدرت دانش استفاده کنیم ، محدوده ای است که مفاهیم در ابتدا در آن کاربرد دارند.,philosophical,philosophical,philosophical,TRUE
+91,هر کس چهل روز به خاطر خدا زندگی کند، چشمه حکمت از دلش به زبان جاری خواهد شد.,religious,religious,religious,TRUE
+92,چه بسا که از خودستایی، از قدر خود می کاهند و از فروتنی، بر مقام خود می افزایند.,religious,philosophical,religious,FALSE
+93,من برای امت خود، از بی تدبیری بیم دارم نه از فقر.,religious,religious,religious,TRUE
+94,اگر انسان را معجوني از فرشته و حيوان بدانيم حقّاً درباره حيوان بي انصافي کرده ايم پس چه بهتر است که او را ترکيبي از فرشته و شيطان بدانيم.,philosophical,religious,philosophical,FALSE
+95,اسطوره ها زاینده اند ! آنان برای فرزندان سرزمین خویش همواره امید به ارمغان می آورند,philosophical,philosophical,philosophical,TRUE
+96,افرادی که قلب خوبی دارند ، با آرامش و مودبانه به دنبال یک سکون در دنیا خواهند بود. این نوع افراد همیشه نسبت به بدبختی دیگران دلسوزی صادقانه ای خواهند داشت.,philosophical,philosophical,religious,FALSE
+97,فضا و زمان چارچوبی است که در آن ذهن تحت فشار قرار می گیرد تا تجربه واقعیت خود را بسازد.,philosophical,philosophical,philosophical,TRUE
+98,با هوای نفس خود نبرد کنید تا مالک وجود خود گردید.,religious,religious,religious,TRUE
+99,هرگز یک پیمان صلح که با اندوخته های ذهنی انگیزه های خاص قابل تحریک آینده یا آغاز جنگ دیگری تنظیم و مذاکره شده باشد ، هرگز معتبر شناخته نمی شود.,philosophical,philosophical,philosophical,TRUE
+100,زندگی خلاصه ایست از ناخواسته به دنیا آمدن ناگهان بزرگ شدن مخفیانه گریستن دیوانه وار عشق ورزیدن و عاقبت در حسرتِ آنچه دل میخواهد و منطق نمیپذیرد، مُردن!,philosophical,philosophical,philosophical,TRUE
+101,و آن كس كه دشمنى ورزيد پيمودن راه حق بر او دشوار و كارش سخت، و نجات او از مشكلات دشوار است.,religious,religious,religious,TRUE
+102,احساس دل ، بالاتر از منطق است,philosophical,philosophical,philosophical,TRUE
+103,به طور کلی اشخاصی که زیاد میدانند ، کم حرف میزنند و کسانی که کم میدانند ، پرحرف هستند,philosophical,philosophical,philosophical,TRUE
+104,آسایش زمان نمیشناسد ،هرگاه خسته شدی بیاسای,philosophical,philosophical,philosophical,TRUE
+105,همیشه به شهادت تعداد کمی نگاه کنید: هرگز صداها را حساب نکنید ، فقط ببینید وزن آنها چقدر ارزش دارد.,religious,philosophical,religious,FALSE
+106,آنکه از نعمت سازش با مردم محروم است، از نیکی ها یکسره محروم خواهد بود.,religious,religious,religious,TRUE
+107,یک زندگی مطالعه نشده ،ارزش زیستن ندارد,philosophical,philosophical,philosophical,TRUE
+108,کاری که نسنجیده انجام شود، بسا که احتمال زیان دارد.,philosophical,philosophical,philosophical,TRUE
+109,عشق یافتنی است نه بافتنی,philosophical,philosophical,philosophical,TRUE
+110,خردمندترین مردم کسی است که با دیگران بهتر بسازد.,philosophical,philosophical,philosophical,TRUE
+111,کسی که نمی داند ازکجا آمده است و به کجامی رود و آن هدف والای زندگی اش که می بایدخود را برای وصول به آن به تکاپو بیندازد، چیست ،منکرخویشتن است,philosophical,philosophical,philosophical,TRUE
+112,هدف ما باید دارای شور و برانگیختگی باشد . آرمانی که آدمی را به وجد نیاورد ، کسالت بار و خسته کننده است,philosophical,philosophical,philosophical,TRUE
+113,بیش از سخن گفتن گفتارت را بسنج ، چنان که بیش از کاشتن تخم شخم میزنی,philosophical,philosophical,philosophical,TRUE
+114,خدایا! فراخ ترین روزیِ مرا در پیری و پایان زندگی، کرامت فرما.,religious,religious,religious,TRUE
+115,مهم نیست که چه اتفاقی برای شما رخ داده، آنچه در واکنش به آن اتفاق انجام می‌دهید مهم است,philosophical,philosophical,philosophical,TRUE
+116,اینكه نظری را همه می پذیرند، نمی تواند دلیلی بر درست بودن آن نظر باشد.,philosophical,philosophical,philosophical,TRUE
+117,كه در زمان نگنجد و مدت نپذيرد.,religious,philosophical,religious,FALSE
+118,روزی را در قعر زمین بجویید.,religious,philosophical,religious,FALSE
+119,عشق همچون توفان سرزمین غبار گرفته وجود را پاک می کند و انگیزه رشد و باروری روزافزون می گردد,philosophical,philosophical,philosophical,TRUE
+120,چون نشانه هاى نعمت پروردگار آشكار شد، با ناسپاسى نعمت ها را از خود دور نسازيد,religious,religious,religious,TRUE
+121,باید بخوری تا زنده باشی ، نه آنکه زنده باشی تا بخوری,philosophical,philosophical,philosophical,TRUE
+122,و تا زنده ايم بر اين باور استواريم، و آن را براى صحنه هاى هولناك روز قيامت ذخيره مى كنيم,religious,religious,religious,TRUE
+123,ما متوجه خواهیم شد که محکم ترین و تعصب آمیزترین باورهای ما آنهایی هستند که کمترین دلیل ها برای درستی شان در دست است.,philosophical,philosophical,philosophical,TRUE
+124,پس آن كس كه جدال و نزاع را عادت خود قرار داد از تاريكى شبهات بيرون نخواهد آمد,religious,religious,religious,TRUE
+125,  انتقام دلیل سبکی عقل و پستی روح است,religious,religious,philosophical,FALSE
+126,نیرومندی به زور بازو نیست؛ نیرومند کسی است که بر خشم خود غالب آید.,religious,religious,religious,TRUE
+127,من مجبور شدم دانش را از بین ببرم تا جای باور را فراهم کنم.,philosophical,philosophical,philosophical,TRUE
+128,و كسى كه شكيبا شد در كارش زياده روى نكرده با نيكنامى در ميان مردم زندگى خواهد كرد.,religious,religious,religious,TRUE
+129,يقين نيز بر چهار پايه استوار است: بينش زيركانه، دريافت حكيمانه واقعيّت ها، پند گرفتن از حوادث روزگار، و پيمودن راه درست پيشينيان,religious,religious,religious,TRUE
+130, یادگیری و آموزش در ایام خوشبختی مانند زیور و در ایام ناملایمات مانند پناهگاه است.,philosophical,religious,philosophical,FALSE
+131,بذر اندیشه و فکر بپاش، عمل و نتیجه درو کن.,philosophical,philosophical,philosophical,TRUE
+132,  و گواهى مى دهم كه جز خداى يكتاى بى شريك، معبودى نيست، شهادتى كه اخلاص آن آزموده و پاكى و خلوص آن را باور داريم,religious,religious,religious,TRUE
+133,هر چه سطح موسیقی در جامعه پایین تر باشد وضعیت اجتماعی، سیاسی و اقتصادی مردم هم پایین تر است,philosophical,philosophical,philosophical,TRUE
+134,اندیشه های صرفاً ذهنی و کلی ،منشا بزرگترین خطاهای بشرند,philosophical,philosophical,philosophical,TRUE
+135,مردم بدون عشق کورانی هستند که به هیچ وجه به منزل نخواهند رسید,philosophical,philosophical,philosophical,TRUE
+136, آغاز هر کار مهمترین قسمت آن است,philosophical,religious,philosophical,FALSE
+137, مؤمن آسان انس می گیرد و مأنوس دیگران می شود.,religious,religious,religious,TRUE
+138,اگر وحدت از یک حد مشخص فراتر رود جامعه سیاسی را به نیستی می کشاند,philosophical,philosophical,philosophical,TRUE
+139, شجاعت باشکوه و بزرگ است؛ ذکاوت همیشه کم است ، اما زیبا باقی می ماند.,philosophical,philosophical,philosophical,TRUE
+140,مبادا که ترس از مردم، شما را از گفتن حقیقت باز دارد!,religious,religious,religious,TRUE
+141,فقط تعداد کمی از آنها راهی ثابت را طی کرده اند و با پرورش اندیشه خود توانسته اند از نابالغی فرار کنند.,philosophical,philosophical,religious,FALSE
+142,هنگام مرگ، مردمان می پرسند از ثروت چه باقی گذاشته؟ فرشتگان می پرسند از عمل نیک چه پیش فرستاده؟,religious,religious,religious,TRUE
+143,خردمند هر آنچه را که می داند نمی گوید و هر آنچه را که بگوید می داند,philosophical,philosophical,philosophical,TRUE
+144,از لغزش جوانمردان درگذريد، زيرا جوانمردى نمى ‏لغزد جز آن كه دست خدا او را بلند مرتبه مى‏ سازد,religious,religious,religious,TRUE
+145,  نشانه خشنودی خدا از مردمی، ارزانی قیمت ها و عدالت حکومت آنهاست.,religious,religious,religious,TRUE
+146,و عدل نيز بر چهار پايه بر قرار است: فكرى ژرف انديش، دانشى عميق و به حقيقت رسيده، نيكو داورى كردن و استوار بودن در شكيبايى,religious,religious,religious,TRUE
+147,هر جا که بدکاران حکمروا باشند و نابخردان را گرامی بدارند، باید منتظر بلایی بود.,religious,philosophical,religious,FALSE
+148,  مسلمان آن است که مسلمانان از دست و زبان او در آسایش باشند.,religious,religious,religious,TRUE
+149,(در باره آنان كه از جنگ كناره گرفتند) حق را خوار كرده، باطل را نيز يارى نكردند.,religious,religious,religious,TRUE
+150,  افراد سست اراده همیشه منتظر معجزه ها و رویدادهای شگفت انگیزند اما افراد قوی ، خود آفریننده معجزه ها و رویدادهای شگفت انگیزند.,philosophical,philosophical,philosophical,TRUE
+151,  دانش و اندیشه و هوش و خرد نیز یکی هستند,philosophical,philosophical,philosophical,TRUE
+152,و هر آن كس را كه خداوند بى نياز گرداند، نيازمند نخواهد شد. پس ستايش خداوند گران سنگ ترين چيز است، و برترين گنجى است كه ارزش ذخيره شدن دارد.,religious,religious,religious,TRUE
+153,نیرومندترین مردم کسی است که خشم خویش نگه دارد,religious,religious,religious,TRUE
+154,  راستی به دل آرامش می بخشد و از دروغ، شک و پشیمانی می زاید.,religious,religious,religious,TRUE
+155,از جمله حقوق فرزند بر پدر این است که نام نیکو بر او بگذارد و نوشتن به او بیاموزد و چون بالغ شد، او را همسر انتخاب کند.,religious,religious,religious,TRUE
+156,بخشنده باش امّا زياده روى نكن، در زندگى حسابگر باش امّا سخت گير مباش,religious,philosophical,religious,FALSE
+157,چیزهای باشکوهی در مورد بی گناهی وجود دارد ، اما نمی توان از آن به خوبی محافظت کرد و به راحتی اغوا می شود.,religious,philosophical,religious,FALSE
+158,و در رفع نيازها از او يارى مى طلبم زيرا آن كس را كه خدا هدايت كند، هرگز گمراه نگردد، و آن را كه خدا دشمن دارد، هرگز نجات نيابد,religious,religious,religious,TRUE
+159,تعصبات جدید و همچنین تعصبات قدیمی برای به دست آوردن توده های بزرگ غیرفکر به کار خواهند آمد.,philosophical,philosophical,philosophical,TRUE
+160,  گرفتاری این دنیا از این است كه نادان از كار خود اطمینان دارد و دانا از كار خود مطمئن نیست,philosophical,philosophical,philosophical,TRUE
+161,  و آن را براى صحنه هاى هولناك روز قيامت ذخيره مى كنيم، زيرا شهادت به يگانگى خدا، نشانه استوارى ايمان، باز كننده درهاى احسان، مايه خشنودى خداى رحمان، و دور كننده شيطان است,religious,religious,religious,TRUE
+162,"  نارسایی به معنای خوب همان چیزی است که ""حماقت"" خوانده می شود. و برای چنین شکست ، ما هیچ درمانی نمی دانیم.",philosophical,philosophical,philosophical,TRUE
+163,  هر صاحب خردی از امت مرا چهار چیز ضروری است: گوش دادن به علم، به خاطر سپردن و منتشر ساختن دانش و بدان عمل کردن.,religious,religious,religious,TRUE
+164,اگر خاموش بنشینی تا دیگران به سخنت آورند ، بهتر از آنست که سخن بگویی و خاموشت کنند,philosophical,philosophical,philosophical,TRUE
+165,مهم است بیاموزید که بر عقاید متفاوت با عقیده خودتان خشم نگیرید، بلکه بکوشید بفهمید که آن عقاید چگونه واقع شده. اگر آن عقاید، پس از آن که فهمشان کرده اید، هنوز کاذب می نماید، آن گاه می توانید با آنها نبرد کنید به طرزی بسیار مؤثرتر از هنگامی که از آن عقاید همچنان فقط نفرت داشتید.,philosophical,religious,philosophical,FALSE
+166,تجربه بدون نظریه کور است ، اما تئوری بدون تجربه صرفاً یک بازی فکری است.,philosophical,philosophical,philosophical,TRUE
+167, خداوندى كه فراخناى صفاتش را نه حدّى است و نه نهايتى و وصف جلال و جمال او را سخنى درخور نتوان يافت،,religious,religious,religious,TRUE
+168,هیچ چیز در دنیا ، یا حتی خارج از آن قابل تصور نیست. واقعاً ، آنچه را می توان خوب و فاقد صلاحیت دانست ، همیشه با حسن نیت گره خورده است.,philosophical,religious,philosophical,FALSE
+169,كسى در انجام كارى كه مردم خوش ندارند، شتاب كند، در باره او چيزى خواهند گفت كه از آن اطّلاعى ندارند,religious,religious,religious,TRUE
+170,خنده تأثیری است در تبدیل ناگهانی انتظار زیاد به هیچ.,philosophical,philosophical,philosophical,TRUE
+171,خشم و غضب را به درگاه مردان با اراده راهی نیست,religious,religious,religious,TRUE
+172, دین همیشه به رسمیت شناختن همه وظایف و تکالیف ما از طریق کتب آسمانی منجر می شود.,religious,religious,religious,TRUE
+173,خدایا، مرا به دانش، توانگر ساز و به بردباری، زینت بخش و به پرهیزکاری، گرامی بدار و به تندرستی، زیبایی ده,religious,religious,religious,TRUE
+174, زینت انسان به سه چیز است: علم، محبت، آزادی,religious,religious,philosophical,FALSE
+175, هدف حاکمان سياسي بشري کسب قدرت هرچه بيشتر است همچنانکه قانون جاذبه، در اجسام، حاکم است.,philosophical,philosophical,philosophical,TRUE
+176,زن آرزو دارد تا خویشتنداری مرد را به دست آورد.,religious,religious,religious,TRUE
+177,آرمانهای ما فقط با درآمیختن با جهان به ثمر می رسند و چون از جهان جدا شوند عقیم می مانند,philosophical,philosophical,philosophical,TRUE
+178,انسانها نمی خواهند روح خود را آزاد کنند تا به عالم مثال باز گردد. اکثر مردم به محسوسات یعنی سایه های حقایق چسبیده اند و به دنبال خود حقایق نیستند,philosophical,religious,philosophical,FALSE
+179,و هر آن كس را كه خداوند بى نياز گرداند، نيازمند نخواهد شد. پس ستايش خداوند گران سنگ ترين چيز است، و برترين گنجى است كه ارزش ذخيره شدن دارد.,religious,religious,religious,TRUE
+180, در دين خود، غلوّ (و زياده روى) نكنيد,religious,religious,religious,TRUE
+181,آفريدگان را به قدرت خويش بيافريد و بادهاى باران زاى را بپراكند تا بشارت باران رحمت او دهند و به صخره هاى كوهساران، زمينش را از لرزش بازداشت.,religious,religious,religious,TRUE
+182, و آن كس كه از راه حق منحرف گرديد، نيكويى را زشت، و زشتى را نيكويى پنداشت و سر مست گمراهى ها گشت,religious,religious,religious,TRUE
+183,در حقیقت، با توجه به نادانی اكثریت نوع بشر، امكان نادرست بودن نظری كه همگان آن را می پذیرند بیشتر است تا عكس آن.,philosophical,philosophical,philosophical,TRUE
+184, فضیلت انسان در نگهداشتن حد وسط میان افراط و تفریط است,philosophical,religious,philosophical,FALSE
+185, عشق واسطه انسان ها و خدایان است و فاصله ی آنها را پر می کند,philosophical,religious,philosophical,FALSE
+186,و هر آن كس را كه خداوند بى نياز گرداند، نيازمند نخواهد شد. پس ستايش خداوند گران سنگ ترين چيز است، و برترين گنجى است كه ارزش ذخيره شدن دارد.,religious,religious,religious,TRUE
+187,هنر تربیت هنری است که به یاری آن می توان روح جوانان را به سویی دیگر گرداند. نه هنری که به وسیله آن بتوان در روح نیروی بینایی نشاند,philosophical,philosophical,philosophical,TRUE
+188,احساسات مختلف لذت بردن یا عصبانیت ماهیت چیزهای خارجی را که آنها را تحریک می کند ثابت نمی کند ، اما ثابت می کند که چگونه می توان حالت شخصی هر فرد را به راحتی از لذت به درد منتقل کرد,philosophical,philosophical,philosophical,TRUE
+189,به صورت متملّقین، خاک بپاشید.,religious,religious,religious,TRUE
+190, برای اینکه جامعه یی را از لحاظ اجتماعی، سیاسی و اقتصادی بسنجید وضعیت موسیقی آن را بررسی کنید,philosophical,philosophical,philosophical,TRUE
+191,مؤمن از یک سوراخ، دو بار گزیده نمی شود.,religious,religious,religious,TRUE
+192,عملی که دارای ارزش اخلاقی باشد ، باید از روی وظیفه انجام شده باشد,philosophical,philosophical,philosophical,TRUE
+193, ساده باش ، آهوی دشت زندگی ، خیلی زود با نیرنگ می میرد,philosophical,philosophical,philosophical,TRUE
+194,زندگی نیازموده را نباید زیست,philosophical,philosophical,philosophical,TRUE
+195,در فتنه ها، چونان شتر دو ساله باش، نه پشتى دارد كه سوارى دهد، و نه پستانى تا او را بدوشند,religious,religious,philosophical,FALSE
+196,هشدار هشدار، به خدا سوگند، چنان پرده پوشى كرده كه پندارى تو را بخشيده است,religious,religious,religious,TRUE
+197,با درد خود بساز، چندان كه با تو سازگار است,philosophical,philosophical,philosophical,TRUE
+198, این همه حرص حکومت و ریاست و این همه رنج و پشیمانی در عاقبت!,philosophical,philosophical,philosophical,TRUE
+199, و كفر بر چهار ستون پايدار است: كنجكاوى دروغين، ستيزه جويى و جدل، انحراف از حق، و دشمنى كردن,religious,religious,religious,TRUE
+200,حمد باد خداوندى را كه سخنوران در ثنايش فرو مانند و شمارندگان از شمارش نعمتهايش عاجز آيند و كوشندگان هر چه كوشند، حق نعمتش را آنسان كه شايسته اوست، ادا كردن نتوانند.,religious,religious,religious,TRUE
+201, و آن كس كه در دنيا زهد مى ورزد، مصيبت ها را ساده پندارد,religious,religious,religious,TRUE
+202, دشمن ابزار نابود ساختن آدمی را ، در درون سرای او جست و جو می کند,philosophical,philosophical,philosophical,TRUE
+203,سينه خردمند صندوق راز اوست، و خوشرويى وسيله دوست يابى، و شكيبايى، گورستان پوشاننده عيب هاست,religious,philosophical,religious,FALSE
+204,از خود انسانیت به یادگار بگذارید ،نه انسان تولید مثل را هر جانوری بلد است,philosophical,philosophical,philosophical,TRUE
+205,اگر بر ساماندهی نیروهای خود توانا نباشیم ، دیگران سرنوشتمان را می سازند,philosophical,philosophical,religious,FALSE
+206,افسوس بر من از کوتاهی هایی که در اطاعت فرمان خدا کردم و از مسخره کنندگان آیات او بودم,religious,religious,religious,TRUE
+207,و گواهى مى دهم كه جز خداى يكتاى بى شريك، معبودى نيست، شهادتى كه اخلاص آن آزموده و پاكى و خلوص آن را باور داريم و تا زنده ايم بر اين باور استواريم،,religious,religious,religious,TRUE
+208, تملّق، خوی مؤمن نیست.,religious,religious,religious,TRUE
+209,وسوسه های شیطانی مانع از آن است که راه بهتر را آشکار ببینید و برگزینید.,religious,religious,religious,TRUE
+210,فحش دلیل کسانی است که حق ندارند,philosophical,philosophical,philosophical,TRUE
+211,در زندگی وقتی کاری برای انجام یا چیزی برای عشق ورزیدن یا بارقه ای برای امیدوار بودن داشتید ، آن گاه بدانید فرد شادی خواهید بود,philosophical,philosophical,philosophical,TRUE
+212,در جامعه ای که همه با هم برادر باشند هیچ کس با هم برادر نیست,philosophical,philosophical,philosophical,TRUE
+213,شما همیشه باید به گونه ای رفتار کنید که اصل شما بتواند به یک قانون ایمن برای بقیه جهان تبدیل شود.,philosophical,philosophical,philosophical,TRUE
+214,هر فريب خورده اى را نمى شود سرزنش كرد,philosophical,philosophical,religious,FALSE
+215,علم دانش سازمان یافته است ، خرد زندگی سازمان یافته است.,philosophical,philosophical,philosophical,TRUE
+216,بالاتر دانستن تلاش بر نتیجه را می‌توان عشق نامید,philosophical,philosophical,philosophical,TRUE
+217, کسی که دارای عزمی راسخ است ،جهان را مطابق میل خویش عوض می کند,philosophical,philosophical,philosophical,TRUE
+218,ثروت طبیعی اگرچه محدود است، اما تهیه آن آسان است. با این حال ثروتی که بر اساس باور‌های بیهوده شکل می‌گیرد، تا بی نهایت ادامه دارد,philosophical,philosophical,philosophical,TRUE
+219, سنگین ترین چیزی که در ترازوی اعمال گذارده می شود، خوش خویی است.,religious,religious,religious,TRUE
+220,خوشا کسی که زیادی مال را به دیگران ببخشد و زیادی سخن را برای خود نگاه دارد.,religious,religious,religious,TRUE
+221,سخی و جوانمرد باش تا آسمانی باشی,religious,religious,religious,TRUE
+222,سعی کنید همانگونه باشید که می خواهید دیگران شما را (آنگونه) ببینند,philosophical,philosophical,philosophical,TRUE
+223,اى فرزند آدم زمانى كه خدا را مى بينى كه انواع نعمت ها را به تو مى رساند تو در حالى كه معصيت كارى، بترس,religious,religious,religious,TRUE
+224, زبان عاقل در پشت قلب اوست، و قلب احمق در پشت زبانش قرار دارد,philosophical,philosophical,philosophical,TRUE
+225,و آن كس كه به ستيزه جويى و نزاع پرداخت از ديدن حق نا بينا شد,religious,religious,religious,TRUE
+226,در برف، سپیدی پیداست. آیا تن به آن می دهی؟ بسیاری با نمای سپید نزدیک می شوند که در ژرفنای خود نیستی بهمراه دارند,philosophical,philosophical,philosophical,TRUE
+227, دانایان حرف می زنند چون چیزی برای گفتن دارند . احمق ها حرف می زنند چون باید چیزی بگویند,philosophical,philosophical,philosophical,TRUE
+228, روشنگری عبارت است از خروج از اقلیت خود انسان.,philosophical,philosophical,philosophical,TRUE
+229,انسان از خود راضى، دشمنان او فراوانند,religious,philosophical,religious,FALSE
+230, مؤمنان همچو اجزای یک بنا، همدیگر را نگاه می دارند.,religious,religious,religious,TRUE
+231,والا باید همیشه خارق العاده باشد و زیبا هم می تواند کم باشد. اما آنچه باید روشن باشد این است که والا باید ساده باشد ، در مقابل زیبایی ، که می تواند به طور مداوم آراسته و تزئین شود.,philosophical,philosophical,philosophical,TRUE
+232,تجربه میوه ای است که آن را نمی چینند مگر پس از گندیدن,philosophical,philosophical,philosophical,TRUE
+233,صرف چشم بستن بر بی اعتمادی هرگز نمی تواند برای غلبه بر ناآرامی عقل کافی باشد.,philosophical,philosophical,philosophical,TRUE
+234,برای ماندگاری ، رویایی جز پاکی روان نداشته باش,philosophical,philosophical,philosophical,TRUE
+235, بعد ماورائی عالم ذهنی است و عینی نیست,philosophical,philosophical,philosophical,TRUE
+236, شجاعت چیزی جز ارجگذاری مبتنی بر وقوف و دانش ( مخصوصا در برابرتهدید خطر) بر موهبتهای زندگی نیست,philosophical,philosophical,philosophical,TRUE
+237, زيرا شهادت به يگانگى خدا، نشانه استوارى ايمان، باز كننده درهاى احسان، مايه خشنودى خداى رحمان، و دور كننده شيطان است,religious,religious,religious,TRUE
+238,و پرهيزگار باشيد، تا  در خور رحمت گرديد,religious,religious,religious,TRUE
+239, و آن را براى صحنه هاى هولناك روز قيامت ذخيره مى كنيم، زيرا شهادت به يگانگى خدا، نشانه استوارى ايمان، باز كننده درهاى احسان، مايه خشنودى خداى رحمان، و دور كننده شيطان است.,religious,religious,religious,TRUE
+240,کسانی در زندگی سرافراز و آسوده خواهند زیست که در زندگی به ندای وجدان درونی خویش گوش فرا دهند و آن را ارج نهند,religious,religious,religious,TRUE
+241,علم در اصل چیزی جز پویش منظّم در طریق معرفت نیست…,religious,philosophical,religious,FALSE
+242,از شاعر نخواهید خودش را شرح دهد، نمى تواند,philosophical,philosophical,philosophical,TRUE
+243,شهامت استفاده از دلیل خود را داشته باشید. این شعار روشنگری است.,philosophical,philosophical,philosophical,TRUE
+244,من همان کار مادرم را می کنم. این حقایقی که من می گویم ، در ذهن شما هست ، من کمک می کنم که شما این نوزادهای موجود در زهدان ذهن خودتان را به دنیا بیاورید,philosophical,philosophical,philosophical,TRUE
+245,هر کس لطف بهار میخواهد باید دشواری زمستان را تحمل کند,philosophical,philosophical,philosophical,TRUE
+246,برای آنکه بتوانیم کسی را دوست داشته باشیم به زمان و آگاهی نیاز داریم . برای دوست داشتن ابتدا باید داوری کرد و برای برتری دادن ،باید نخست سنجید,philosophical,philosophical,philosophical,TRUE
+247,قدرتمندترین فردی کسی است که توان کنترل خودش را داشته باشد,philosophical,philosophical,religious,FALSE
+248,تا عقل کسی را نیازموده اید، به اسلام آوردن او وقعی نگذارید.,religious,religious,religious,TRUE
+249,مرگ دگم ، تولد اخلاق است.,philosophical,philosophical,philosophical,TRUE
+250,كارها چنان در سيطره تقدير است كه چاره انديشى به مرگ مى انجامد,religious,religious,religious,TRUE
+251,خداوند، مؤمن صاحب حرفه را دوست دارد.,religious,religious,religious,TRUE
+252,هرچه بیشتر سر و کار داشته باشیم ، هر چه حادتر احساس کنیم چه چیزی را تجربه می کنیم ، بیشتر از زندگی آگاهی داریم.,philosophical,philosophical,philosophical,TRUE
+253,هیچ بیماری آسیب زا تر از دوری از عدالت نیست و مهمترین پایه عدالت چیزی نیست,religious,religious,religious,TRUE
+254,كسى را كه نزديكانش واگذارند، بيگانه او را پذيرا مى گردد,philosophical,religious,philosophical,FALSE
+255,به دلیل دروغ ، یک مرد قادر به از بین بردن شأن خود است.,philosophical,philosophical,philosophical,TRUE
+256,چون تو را ستایش کنند، بگو ای خدا مرا بهتر از آنچه گمان دارند بساز و آنچه را از من نمی دانند بر من ببخش و مرا مسئول آنچه می گویند قرار مده.,religious,religious,religious,TRUE
+257,و آن كس كه از هر چيزى ترسيد همواره در حال عقب نشينى است,philosophical,religious,philosophical,FALSE
+258,عالم فاسد، بدترین مردم است.,religious,religious,religious,TRUE
+259,هنگامى كه تو زندگى را پشت سر مى گذارى و مرگ به تو روى مى آورد، پس ديدار با مرگ چه زود خواهد بود,religious,religious,religious,TRUE
+260,پول درآوردن یک اجبار است و ثروت ظاهراً آن مورد مطلوبی نیست که به دنبال آن هستیم، زیرا این ثروت صرفاً به خاطر چیز دیگری مفید است,philosophical,philosophical,philosophical,TRUE
+261,همیشه خوب است به یاد داشته باشیم که هر چیزی که ما تصور می کنیم از طریق عقل قابل تحقق است.,philosophical,philosophical,philosophical,TRUE
+262,کسی که همسر و کودک خویش را رها می کند ، در پی خفت ابدیست,religious,philosophical,religious,FALSE
+263,نغمــه و وزن موسیقی تأثیر فوق العــاده ای در روح انسـان دارد و اگر درست بکار رود می تواند زیبایی را در رؤیاهای روح جایگزین کند,philosophical,philosophical,philosophical,TRUE
+264,دانش، ميراثى گرانبها، و آداب، زيورهاى هميشه تازه، و انديشه، آيينه اى شفّاف است,philosophical,religious,philosophical,FALSE
+265,متواضع باش تا دوست بسیار داشته باشی,philosophical,religious,philosophical,FALSE
+266,کسی که نسبت به حیوانات پست باشد در برخورد با مردان نیز بی ادب می شود. ما می توانیم قلب انسان را با رفتار او با حیوانات قضاوت کنیم.,philosophical,philosophical,philosophical,TRUE
+267,صدقه دادن دارويى ثمر بخش است، و كردار بندگان در دنيا، فردا در پيش روى آنان جلوه گر است,religious,religious,religious,TRUE
+268,آنکه در بیراهه قدم بر می دارد آرمان و هدف خویش را گم کرده است,philosophical,philosophical,philosophical,TRUE
+269,ما در كتاب [آفرينش] هيچ چيز را فروگذار نكرده‏ايم,religious,religious,religious,TRUE
+270,پس آن كس كه هوشمندانه به واقعيّت ها نگريست، حكمت را آشكارا بيند، و آن كه حكمت را آشكارا ديد، عبرت آموزى را شناسد، و آن كه عبرت آموزى شناخت گويا چنان است كه با گذشتگان مى زيسته است.,philosophical,religious,philosophical,FALSE
+271,انسان، دنیایی از عجایب است,philosophical,philosophical,philosophical,TRUE
+272,كسى چيزى را در دل پنهان نكرد جز آن كه در لغزش هاى زبان و رنگ رخسارش، آشكار خواهد گشت,religious,religious,philosophical,FALSE
+273,از ويژگى هاى انسان در شگفتى مانيد، كه: با پاره اى «پى» مى نگرد، و با «گوشت» سخن مى گويد، و با «استخوان» مى شنود، و از «شكافى» نفس مى كشد,religious,religious,religious,TRUE
+274,در امور سیاست نباید فقط متخصصان ابراز نظر کنند ، شهروندان عادی نیز می تواند به مسائل سیاسی به پردازند,philosophical,philosophical,philosophical,TRUE
+275,اگر تمامی ما قدرت جادویی خواندن افكار یكدیگر را داشتیم، نخستین چیزی كه در دنیا از بین می رفت عشق بود.,philosophical,philosophical,philosophical,TRUE
+276,سخت ترین دشمن تو، همانا نفس اماره است که در میان دو پهلوی تو جا دارد.,religious,religious,religious,TRUE
+277,با مردم آنگونه معاشرت كنيد، كه اگر مرديد بر شما اشك ريزند، و اگر زنده مانديد، با اشتياق سوى شما آيند نه تنها باید به زنان اجازه حضور در فعالیت های سیاسی و حتی نظامی را داد بلکه آنان را باید وادار به این امر نمود,religious,religious,religious,TRUE
+278,اگر خوب زندگی کنی به حتم شاد نمی شوی، اما اگر شاد باشی خوب زندگی خواهی کرد.,philosophical,philosophical,philosophical,TRUE
+279,راستگو باش تا استقامت داشته باشی,philosophical,philosophical,religious,FALSE
+280,پر حرفی در هنگام اندرز ، از اثر آن می کاهد,philosophical,philosophical,philosophical,TRUE
+281,عدم بلوغ ناتوانی در استفاده از هوش فرد بدون راهنمایی دیگری است.,philosophical,philosophical,philosophical,TRUE
+282,هر عقیده ­ای که امروز مورد قبول است زمانی مخالف عقیدۀ عموم بوده است.,philosophical,philosophical,philosophical,TRUE
+283,نفرین باد بر کسی که بار خود را به دوش دیگران بگذارد.,religious,religious,religious,TRUE
+284,خوشبختی ایده آل عقل نیست ، بلکه تخیل است.,philosophical,philosophical,philosophical,TRUE
+285,متافیزیک اقیانوسی تاریک و بدون سواحل و فانوس دریایی است که با ویرانه های فلسفی زیادی پراکنده شده است.,philosophical,religious,philosophical,FALSE
+286,نبوغ توانایی درک مستقل و رسیدن به مفاهیمی است که معمولاً باید توسط شخص دیگری آموزش داده شود.,philosophical,philosophical,philosophical,TRUE
+287,امید و آرزو آخرین چیزی است که دست از گریبان بشر برمی دارد,philosophical,philosophical,philosophical,TRUE
+288,ترس با نااميدى، و شرم با محروميّت همراه است، و فرصت ها چون ابرها مى گذرند، پس فرصت هاى نيك را غنيمت شماريد,philosophical,philosophical,religious,FALSE
+289,ناداری بلاست؛ از آن بدتر، بیماری تن، و از بیماری تن دشوارتر، بیماری دل.,philosophical,philosophical,philosophical,TRUE
+290,صبر نيز بر چهار پايه قرار دارد. شوق، هراس، زهد و انتظار,religious,religious,religious,TRUE
+291,هرچه بیشتر بدانی بیشتر متوجه می شوی که نمی دانی,philosophical,philosophical,philosophical,TRUE
+292,افکار بدون محتوا پوچ ، شهودهای بدون مفهوم کور هستند.,philosophical,philosophical,philosophical,TRUE
+293,برای آنکه روانت را بپروری، ابتدا با خودت یکی شو,philosophical,philosophical,philosophical,TRUE
+294,نمی توان همه را به مال راضی کرد اما به حُسن خُلق، می توان.,religious,religious,religious,TRUE
+295,عبادت، هفت گونه است که از همه والاتر، طلب روزی حلال است.,religious,religious,religious,TRUE
+296,و در رفع نيازها از او يارى مى طلبم زيرا آن كس را كه خدا هدايت كند، هرگز گمراه نگردد، و آن را كه خدا دشمن دارد، هرگز نجات نيابد و هر آن كس را كه خداوند بى نياز گرداند، نيازمند نخواهد شد,religious,religious,religious,TRUE
+297,ستايش مى كنم خداوند او را، براى تكميل نعمت هاى او و تسليم بودن برابر بزرگى او و ايمن ماندن از نافرمانى او.,religious,religious,religious,TRUE
+298,نمی توانم چیزی به دیگران بیاموزم ؛ فقط می توانم وادارشان کنم که بیندیشند,philosophical,philosophical,philosophical,TRUE
+299,سگ ، همان روحی را دارد که فیلسوف,philosophical,philosophical,philosophical,TRUE
+300,پس كسى كه درست انديشيد به ژرفاى دانش رسيد و آن كس كه به حقيقت دانش رسيد، از چشمه زلال شريعت نوشيد،,religious,religious,religious,TRUE
+301,بدانید که خدا سخت‏ کیفر است,religious,religious,religious,TRUE
+302,رفتار انسان از سه منبع نیرو می‌گیرد: میل، هیجان، و عقل,philosophical,philosophical,religious,FALSE
+303,آن قدر بر مال دنیا حریص مباش که از مفقود شدنش اندوهناک شوی,religious,religious,religious,TRUE
+304,موفقیت در دل مردان ایجاد غرور و کوری می‌کند، در حالی که رنج به آن‌ها می‌آموزد که صبور و نیرومند باشند,philosophical,philosophical,philosophical,TRUE
+305,انسان آزاد آفریده شده است اما همیشه در زنجیری است که خود بافته است,religious,philosophical,religious,FALSE
+306,از ناسزا گفتن، به جز کینه مردم، سودی نمی بری.,religious,religious,religious,TRUE
+307,چالاک باش تا هوشیار باشی,philosophical,philosophical,philosophical,TRUE
+308,خداوند زیباست و زیبایی را دوست می دارد.,religious,religious,religious,TRUE
+309,زندگی یک صفحه آشکار نیست، اما هرچه بیشتر به سمت حقیقت سفر کنیم، بیشتر می‌توانیم آن را درک کنیم,philosophical,philosophical,philosophical,TRUE
+310,آن كس كه اشتياق بهشت دارد، شهوت هايش كاستى گيرد، و آن كس كه از آتش جهنّم مى ترسد، از حرام دورى مى گزيند,religious,religious,religious,TRUE
+311,آزادی در مورد دانش نظری ما از طبیعت چیزی تعیین نمی کند ، همانطور که مفهوم طبیعت در مورد قوانین عملی آزادی چیزی را تعیین نمی کند.,philosophical,philosophical,philosophical,TRUE
+312,كسى كه آرزوهايش طولانى است كردارش نيز ناپسند است,religious,religious,religious,TRUE
+313,سیارات حول زمین ثابت می چرخند,philosophical,philosophical,philosophical,TRUE
+314,و آن كس كه در ترديد و دو دلى باشد زير پاى شيطان كوبيده خواهد شد,religious,religious,religious,TRUE
+315,پس آن كس كه دنبال توهّم و كنجكاوى دروغين رفت به حق نرسيد,religious,religious,religious,TRUE
+316,زنان همیشه نسبت به همه چیزهایی که ارزشمند ، متمایز و تزئین شده اند ، احساس شدیدی دارند.,philosophical,philosophical,religious,FALSE
+317,راز شادمانی در این است: بگذارید دلبستگی‌های شما تا حد امکان گسترده باشند. بگذارید واکنش‌هایتان نسبت به چیزها و اشخاصی که به آنها دلبستگی دارید، به جای دشمنانه بودن، تا حد امکان دوستانه باشد,philosophical,philosophical,religious,FALSE
+318,وقتی که از تلف‌کردن آن لذت می‌بری، وقت تلف‌شده نیست.,philosophical,philosophical,philosophical,TRUE
+319,خوشرویی کینه را از دل می برد.,religious,religious,religious,TRUE
+320,از داشتن عقیده ­ای مخالف عقاید عموم بیمناک مباش،,philosophical,philosophical,philosophical,TRUE
+321,حرکت، کمال شیء بالقوه است از آن حیث که بالقوه است,philosophical,philosophical,philosophical,TRUE
+322,پس هر كس به معروف امر كرد، پشتوانه نيرومند مؤمنان است، و آن كس كه از زشتى ها نهى كرد، بينى منافقان را به خاك ماليد,religious,religious,religious,TRUE
+323,و كسى كه با فاسقان دشمنى كند و براى خدا خشم گيرد، خدا هم براى او خشم آورد، و روز قيامت او را خشنود سازد,religious,religious,religious,TRUE
+324,ابله ترین دوستان ما، خطرناک ترین دشمنان هستند,philosophical,philosophical,philosophical,TRUE
+325,هر قومی شایسته حکومتی است که دارد.,religious,religious,religious,TRUE
+326,ما میلیونر نیستیم به خاطر داشته هایمان ، بلکه به خاطر کارهایی است که می توانیم بدون داشتن منابع مادی انجام دهیم.,philosophical,philosophical,philosophical,TRUE
+327,خوشبختی در املاک و در طلا وجود ندارد، خوشبختی تنها در روح انسان است که یافت می‌شود,philosophical,philosophical,philosophical,TRUE
+328,به خودی خود ، زیبایی حیرت انگیز و متحرک است ، یا خندان و جذاب است.,philosophical,philosophical,philosophical,TRUE
+329,در بازی ، نیرویی نهفته شده که روان آدمی را از خواستهای ناسودمند و احساسات و امیال چرکین پاک می سازد و عواطف آدمی بخشی از خواص خطرناک و ناخوشایند خود را به هنگام بازی از دست می دهد و پاک می شود,philosophical,philosophical,religious,FALSE
+330,و [بدانید] که خدا آمرزنده مهربان است,religious,religious,religious,TRUE
+331,ستايش مى كنم خداوند او را، براى تكميل نعمت هاى او و تسليم بودن برابر بزرگى او و ايمن ماندن از نافرمانى او.,religious,religious,religious,TRUE
+332,تبار بی ریش سفید ، همچون خانه بی سقف است,philosophical,philosophical,philosophical,TRUE
+333,ایمان داشتن به توانایی های خویش ، نیمی از موفقیت و کامیابی است,philosophical,philosophical,philosophical,TRUE
+334,مؤمن، همواره در جستجوی حکمت است.,religious,religious,religious,TRUE
+335,تمام دانش باید ، مستقیم یا غیرمستقیم ، از طریق نمایش های خاص ، در نهایت با حساسیت ما ارتباط داشته باشد ، زیرا به هیچ وجه دیگری نمی توان معنایی به ما داد.,philosophical,philosophical,philosophical,TRUE
+336,از سفر کرده ، ارزش سرزمین مادری را بپرس,philosophical,philosophical,philosophical,TRUE
+337,و چه زيانبار است رنجى كه عذاب در پى آن باشد، و چه سودمند است آسايشى كه با آن، امان از آتش جهنّم باشد,religious,religious,religious,TRUE
+338,آن كه جان را با طمع ورزى بپوشاند خود را پست كرده، و آن كه راز سختى هاى خود را آشكار سازد خود را خوار كرده، و آن كه زبان را بر خود حاكم كند خود را بى ارزش كرده است,religious,religious,religious,TRUE
+339,ناتوان ترين مردم كسى است كه در دوست يابى ناتوان است، و از او ناتوان تر آن كه دوستان خود را از دست بدهد,religious,religious,religious,TRUE
+340,بی صبری شخص را از هیچ رنجی نمی رهاند بلکه درد جدیدی برای از پا درآوردن شخص بوجود می آورد,philosophical,philosophical,religious,FALSE
+341,عاقل آنچه را که می داند ، نمی گوید ؛ ولی آنچه را که می گوید ، می داند,philosophical,philosophical,philosophical,TRUE
+342,سپاس دار باش تا لایق نیکی باشی,religious,religious,religious,TRUE
+343,مدیران پر حرف ، وقتی برای عمل ندارند,philosophical,philosophical,philosophical,TRUE
+344,زندگی مشکلی نیست که بخواهید حل کنید بلکه واقعیتی است که باید تجربه کنید,philosophical,philosophical,philosophical,TRUE
+345,تا دل درست نشود، ایمان درست نخواهد شد و تا زبان درست نشود، دل درست نخواهد بود.,religious,religious,religious,TRUE
+346,رنج وجود دارد,philosophical,philosophical,philosophical,TRUE
+347,سه امر، شایسته توجه خردمند است: بهبودی زندگانی، توشه آخرت، عیش حلال.,religious,religious,religious,TRUE
+348,و در رفع نيازها از او يارى مى طلبم زيرا آن كس را كه خدا هدايت كند، هرگز گمراه نگردد، و آن را كه خدا دشمن دارد، هرگز نجات نيابد,religious,religious,religious,TRUE
+349,زندگی وقتی ارزش زیستن دارد که خودم بتوانم گام به گام بگویم خودم آزمودم و به این نکته رسیدم و بر مقتضای این نکته سیروسلوک می کنم,philosophical,philosophical,philosophical,TRUE
+350,مثلا از آن دو سرباز کسی شجاعتر است که یقینی روشنتر و قابل اعتماد تر دارد بر اینکه مرگ بر زندگی عاری از شرف ، و بر اسارت خود و بر شکست وطن ، بر تری دارد,philosophical,philosophical,philosophical,TRUE
+351,پس از بت پرستیدن، آنچه به من نهی کرده اند، در افتادن با مردم است.,religious,religious,religious,TRUE
+352,بهترین کار خیر، اصلاح بین مردم است.,religious,religious,religious,TRUE
+353,و درود خدا بر او، فرمود: بهترين بى نيازى، ترك آرزوهاست,religious,religious,religious,TRUE
+354,مرد کامل آن است که دشمنان از او در امان زیست کنند نه آن که دوستان از او هراسان باشند,religious,religious,religious,TRUE
+355,بیگناه باش تا بیم نداشته باشی,religious,religious,religious,TRUE
+356,بهترین دوست شما آن است که معایب شما را به شما بنماید.,religious,religious,religious,TRUE
+357,آنچه بار زندگی را بر دوش ما سنگین تر میسازد ، عموماً زیاده روی در خود زندگی است,philosophical,philosophical,philosophical,TRUE
+358,هنرمند و نویسنده مزدور ، از هر کشنده ای زیانبارتر است,philosophical,philosophical,philosophical,TRUE
+359,مدتی صبور باشید ، تهمت کوتاه مدت است. حقیقت دختر زمان است ، به زودی به نظر می رسد که شما را مورد استناد قرار خواهد داد.,philosophical,philosophical,philosophical,TRUE
+360,چون دنيا به كسى روى آورد، نيكى هاى ديگران را به او عاريت دهد، و چون از او روى برگرداند خوبى هاى او را نيز بربايد,religious,religious,religious,TRUE
